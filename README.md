@@ -18,7 +18,7 @@ Tools used: React-Router-DOM, HTML, JavaScript & CSS.
 
 
 *PMVP*
-1. Search Function
-2. Main Promo Movie Card
-3. Recently Viewed
+1. TV Shows
+2. Movies
+3. Search
 4. My List
