@@ -22,3 +22,4 @@ Tools used: React-Router-DOM, HTML, JavaScript & CSS.
 2. Movies
 3. Search
 4. My List
+5. User Account Info
